@@ -1,8 +1,5 @@
 # drone routes coding exercise
-```sh
-npm install
-```
-```sh
-npm start
-```
-http://localhost:8080
+1. Clone the repo
+2. npm install
+3. npm start
+4. Go to http://localhost:8080
