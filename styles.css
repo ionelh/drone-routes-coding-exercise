@@ -1,0 +1,45 @@
+body {
+  font-family: Arial;
+  font-size: 12px;
+}
+
+canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.main-wrapper {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.map-wrapper {
+  position: relative;
+  width: 500px;
+  float: left;
+}
+
+.list-wrapper {
+  width: 200px;
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 5px;
+  background: rgb(230, 230, 230);
+  border-bottom: 1px solid #FFFFFF;
+  border-left: 1px solid #FFFFFF;
+  cursor: pointer;
+}
+
+a.selected, a:hover {
+  background: rgb(210, 210, 210);
+}
+
+.info {
+  width: 700px;
+  clear: both;
+  margin: 0 auto;
+}
